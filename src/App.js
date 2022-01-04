@@ -74,6 +74,7 @@ function onToggle(id){
         <h1>안녕하세요</h1>
         <p>원격저장소가 생겼어요</p>
         <div>비주얼스튜디오 코드에서 푸쉬</div>
+        <div>비주얼스튜디오코드에서 두번째푸쉬</div>
       </div>
       <GlobalStyle/>
       <TodoTemplate>
